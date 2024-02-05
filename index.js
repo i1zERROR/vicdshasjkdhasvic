@@ -9,7 +9,6 @@ app.get('/', (req, res) => {
 
 // Array of your bot tokens
 const tokens = [
-  "MTAwNzQ0NzkyODAzOTgyMTQ0Mg.GzcDtM.D1lVtbRgVGRJ5UgHc9CGQbV2prBP9atYsonQoI",
 ];
 
 async function createBot(token) {
